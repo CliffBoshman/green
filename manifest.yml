@@ -1,0 +1,7 @@
+---
+applications:
+- name: cliffboshman_green
+  memory: 512MB
+  instances: 1
+  host: cliffboshman_green
+  path: .
